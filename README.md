@@ -5,8 +5,8 @@ Recommender systems are being used by every major online platform to personalize
 
 Data:
 I have used the Spotify API for Python called Spotipy to extract features of the songs in the playlists. 6 Spotify playlists of different genres were used to build the database. The playlists encompass the following the genres:
-Jazz
-Rock
+1. Jazz
+2. Rock
 Punk Rock
 R&B
 Pop
