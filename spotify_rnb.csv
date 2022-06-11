@@ -1,0 +1,51 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Beautiful Girls,Sean Kingston,Sean Kingston,2008-03-11,241933,66,0.745,0.159,0.745,0.666,0.0,0.302,-5.899,0.0566,129.995,4
+1,Yeah! (feat. Lil Jon & Ludacris),Confessions (Expanded Edition),Usher,2004-03-23,250373,81,0.894,0.0183,0.894,0.791,0.0,0.0388,-4.699,0.112,105.018,4
+2,Nights,Blonde,Frank Ocean,2016-08-20,307151,77,0.466,0.42,0.466,0.548,1.01e-06,0.113,-9.362,0.118,89.815,4
+3,Sure Thing,All I Want Is You,Miguel,2010-11-26,195373,77,0.684,0.0267,0.684,0.607,0.000307,0.191,-8.127,0.1,81.001,4
+4,Don't Matter,Konvicted,Akon,2006-01-01,293053,72,0.798,0.244,0.798,0.443,0.0,0.326,-6.062,0.0403,125.232,4
+5,Drama (feat. Drake),Exis,Roy Woods,2015-07-31,251859,74,0.709,0.157,0.709,0.362,0.0,0.109,-9.814,0.055,122.043,4
+6,Dead Man Walking,Dead Man Walking,Brent Faiyaz,2020-09-18,247079,75,0.505,0.279,0.505,0.267,0.0,0.096,-13.763,0.05,143.929,4
+7,Break from Toronto,PARTYNEXTDOOR,PARTYNEXTDOOR,2013-07-01,99213,78,0.596,0.0199,0.596,0.678,0.004,0.418,-5.18,0.0335,117.066,4
+8,Pony,R&B: From Doo-Wop To Hip-Hop,Various Artists,1999-10-08,251733,72,0.749,0.00186,0.749,0.605,0.0381,0.115,-9.359,0.086,142.024,4
+9,Heartbreak Anniversary,TAKE TIME,Giveon,2020-03-27,198370,81,0.449,0.524,0.449,0.465,1.02e-06,0.303,-8.964,0.0791,89.087,3
+10,"Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)",Floor Seats,A$AP Ferg,2019-08-16,222986,74,0.737,0.292,0.737,0.597,0.0,0.13,-7.333,0.119,92.049,4
+11,Often,Beauty Behind The Madness,The Weeknd,2015-08-28,249040,78,0.572,0.222,0.572,0.631,0.0,0.135,-9.836,0.0476,134.078,4
+12,Broken Clocks,Ctrl,SZA,2017-06-09,231253,75,0.692,0.131,0.692,0.684,0.0,0.156,-7.364,0.155,112.912,4
+13,White Tee (with NO1-NOAH),Life On Earth - EP,Summer Walker,2020-07-10,211373,72,0.791,0.744,0.791,0.366,7.24e-06,0.106,-8.337,0.0966,124.878,4
+14,"Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix","Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]",Ty Dolla $ign,2014-06-10,242983,77,0.805,0.22,0.805,0.33,0.0,0.105,-8.712,0.1,121.97,4
+15,The Way I Are,Shock Value,Timbaland,2007-01-01,179120,80,0.731,0.181,0.731,0.807,0.751,0.319,-6.492,0.1,114.759,4
+16,Lost,channel ORANGE,Frank Ocean,2012-07-10,234093,85,0.913,0.0272,0.913,0.603,0.000503,0.167,-4.892,0.226,123.061,4
+17,So Sick,In My Own Words,Ne-Yo,2006-01-01,207186,75,0.452,0.246,0.452,0.574,0.0,0.189,-8.336,0.31,92.791,4
+18,"Bills, Bills, Bills",The Writing's On The Wall,Destiny's Child,1999-07-27,256026,72,0.845,0.139,0.845,0.576,0.0,0.0764,-5.15,0.153,127.641,4
+19,Coming Home,Last Train To Paris,Diddy - Dirty Money,2010-01-01,238693,69,0.392,0.158,0.392,0.839,0.0,0.3,-1.921,0.193,168.001,4
+20,What You Heard,What You Heard,Sonder,2019-02-22,238242,70,0.429,0.546,0.429,0.371,5.71e-06,0.104,-9.017,0.0327,137.134,4
+21,Big Energy (feat. DJ Khaled) - Remix,Big Energy (feat. DJ Khaled) [Remix],Latto,2022-03-31,181665,74,0.867,0.0385,0.867,0.771,0.0,0.133,-3.688,0.0939,106.021,4
+22,Over,Candydrip,Lucky Daye,2022-03-10,207413,72,0.65,0.502,0.65,0.555,0.0,0.104,-5.971,0.0719,103.081,4
+23,The Take (feat. Chris Brown),Chixtape 5,Tory Lanez,2019-11-15,221492,70,0.464,0.0511,0.464,0.547,0.0,0.155,-8.137,0.339,67.003,4
+24,Wicked Games - Original,House Of Balloons (Original),The Weeknd,2011-03-21,325305,60,0.606,0.0217,0.606,0.57,8.47e-06,0.301,-6.684,0.032,114.033,4
+25,My Boo,Confessions (Expanded Edition),Usher,2004-03-23,223440,76,0.662,0.257,0.662,0.507,0.0,0.0465,-8.238,0.118,86.412,4
+26,C U Girl,C U Girl,Steve Lacy,2015-02-15,129697,75,0.414,0.663,0.414,0.473,0.0523,0.128,-8.911,0.116,100.0,4
+27,Killing Me Softly With His Song,The Score (Expanded Edition),Fugees,1996-02-13,298773,76,0.765,0.0279,0.765,0.29,0.0,0.571,-17.117,0.139,92.409,4
+28,Go Crazy,Slime & B,Chris Brown,2020-05-08,176960,77,0.755,0.316,0.755,0.578,0.0,0.25,-8.932,0.145,94.148,4
+29,Thinkin Bout You,channel ORANGE,Frank Ocean,2012-07-10,200746,76,0.721,0.409,0.721,0.339,0.00153,0.0973,-11.195,0.0532,129.83,4
+30,Pretty Little Fears (feat. J. Cole),East Atlanta Love Letter,6LACK,2018-09-14,240341,73,0.61,0.696,0.61,0.458,0.000103,0.0852,-11.336,0.36,192.099,4
+31,Trust Issues,Care Package,Drake,2019-08-02,281518,74,0.421,0.779,0.421,0.539,0.0,0.111,-5.456,0.274,89.177,3
+32,Lämna Han,Sherihan,Cherrie,2016-04-29,319230,48,0.637,0.0467,0.637,0.474,0.0,0.112,-9.137,0.0598,115.824,4
+33,If I Were a Boy,I AM...SASHA FIERCE - Platinum Edition,Beyoncé,2008,249866,67,0.63,0.0953,0.63,0.504,0.0,0.308,-6.152,0.0334,89.946,4
+34,Language,Language,Paperboy Fabe,2017-05-12,150360,67,0.62,0.0422,0.62,0.721,0.0075,0.563,-5.538,0.0887,169.904,4
+35,Session 32,Session 32,Summer Walker,2018-04-05,98026,68,0.574,0.894,0.574,0.123,0.00111,0.118,-13.959,0.196,115.431,3
+36,American Boy,Shine,Estelle,2008-03-28,284733,78,0.727,0.171,0.727,0.729,0.0,0.07,-2.99,0.326,117.932,4
+37,Superstar,Thank You,Jamelia,2003-06-30,215480,69,0.801,0.0457,0.801,0.645,0.0,0.0357,-6.93,0.0356,110.01,4
+38,Sex With Me,ANTI (Deluxe),Rihanna,2016-01-28,206400,71,0.58,0.294,0.58,0.532,0.0,0.0948,-5.668,0.0424,112.049,4
+39,Dilemma,Nellyville,Nelly,2002-06-25,289160,77,0.727,0.227,0.727,0.552,0.000164,0.198,-8.074,0.14,168.189,4
+40,Smack That,Konvicted,Akon,2006-01-01,212360,78,0.939,0.321,0.939,0.742,0.0,0.107,-5.171,0.0467,118.978,4
+41,Hit 'Em Up Style (Oops!),So Blu,Blu Cantrell,2001-01-18,250706,70,0.667,0.201,0.667,0.773,0.0,0.404,-4.983,0.0586,89.976,4
+42,Chosen (feat. Ty Dolla $ign),No Love Lost (Deluxe),Blxst,2020-12-04,161684,79,0.571,0.336,0.571,0.767,0.0,0.0809,-5.16,0.287,93.421,4
+43,I Hate U,I Hate U,SZA,2021-12-03,174000,80,0.535,0.507,0.535,0.388,0.0,0.11,-9.805,0.155,106.703,5
+44,I Was Never There,"My Dear Melancholy,",The Weeknd,2018-03-30,241066,80,0.323,0.142,0.323,0.737,0.000162,0.163,-4.008,0.0338,113.26,4
+45,All The Stars (with SZA),Black Panther The Album Music From And Inspired By,Kendrick Lamar,2018-02-09,232186,80,0.698,0.0605,0.698,0.633,0.000194,0.0926,-4.946,0.0597,96.924,4
+46,Been Like This,Planet Her,Doja Cat,2021-06-25,177373,71,0.678,0.126,0.678,0.531,3.44e-05,0.377,-5.029,0.0374,99.008,4
+47,Kiss It Better,ANTI (Deluxe),Rihanna,2016-01-28,253080,73,0.619,0.272,0.619,0.806,0.0,0.0671,-4.8,0.0483,95.0,4
+48,Infrunami,The Lo-Fis,Steve Lacy,2020-12-04,178328,74,0.826,0.31,0.826,0.299,0.0952,0.0758,-7.721,0.0446,97.012,4
+49,Girls Need Love,Last Day Of Summer,Summer Walker,2018-10-19,140760,72,0.645,0.558,0.645,0.418,0.0003,0.562,-10.065,0.29,96.963,4

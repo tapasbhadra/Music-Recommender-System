@@ -1,0 +1,37 @@
+,track_uri,track_name,artist_name,artist_pop,artist_genres,album,track_pop,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,spotify:track:2glRwrbsXM6p1AW1UESGtS,Funking Around,Me & My Toothbrush,43,"['deep house', 'disco house', 'funky house', 'house', 'tropical house']",Funking Around,47,0.0258,0.811,0.928,0.00796,0.0436,-4.367,0.039,123.998,4
+1,spotify:track:5LYMamLv12UPbemOaTPyeV,Music For a Sushi Restaurant,Harry Styles,94,['pop'],Harry's House,90,0.258,0.72,0.715,0.0568,0.107,-4.652,0.04,107.041,4
+2,spotify:track:1ZgQnD9g6koKGpBUmYDBNq,Serious Mood,Point Point,38,"['future bass', 'new french touch', 'vapor twitch']",Serious Mood,36,0.00733,0.676,0.867,0.911,0.24,-6.387,0.0724,180.029,4
+3,spotify:track:5wroYfXQb6ytyIWRC0lUoT,Discopolis 2.0 - Original Rework,Lifelike,40,"['filter house', 'nu disco']",Discopolis 2.0,32,0.0113,0.631,0.952,0.918,0.227,-2.447,0.0295,119.99,4
+4,spotify:track:571TjaPDo1NCItCkTBoYt1,Munky Fonkey,Jon Bovi,26,[],Wad Morld,26,0.0115,0.836,0.606,0.851,0.0832,-8.2,0.0542,122.019,4
+5,spotify:track:712uvW1Vezq8WpQi38v2L9,"Bitch, Don’t Kill My Vibe",Kendrick Lamar,92,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']","good kid, m.A.A.d city (Deluxe)",70,0.0152,0.587,0.698,0.0,0.442,-8.948,0.0943,133.954,4
+6,spotify:track:5W3cjX2J3tjhG8zb6u0qHn,"Harder, Better, Faster, Stronger",Daft Punk,78,"['electro', 'filter house']",Discovery,71,0.0427,0.817,0.716,0.00263,0.358,-8.898,0.144,123.474,4
+7,spotify:track:0j2T0R9dR9qdJYsB7ciXhf,Stronger,Kanye West,90,"['chicago rap', 'rap']",Graduation,81,0.00564,0.617,0.717,0.0,0.408,-7.858,0.153,103.992,4
+8,spotify:track:2BKeGrxbIbp57iqDlhq9l9,Free Salute,Little Barrie,39,['nottingham indie'],We Are Little Barrie,34,0.0387,0.379,0.704,0.00974,0.614,-4.932,0.0503,94.781,4
+9,spotify:track:4Im6GRj17qa7NW76OsJh1s,I Guess I Just Feel Like,John Mayer,76,"['neo mellow', 'singer-songwriter']",Sob Rock,69,0.515,0.548,0.483,0.0674,0.0922,-9.102,0.0268,159.952,4
+10,spotify:track:3QxYK3Cw9jvWIXWwa86imU,Slinky,The Filthy Six,26,"['british jazz', 'instrumental funk', 'modern funk']",The Fox,35,0.509,0.595,0.682,0.864,0.0998,-9.924,0.0323,115.944,4
+11,spotify:track:4fQMGlCawbTkH9yPPZ49kP,Green Onions,Booker T. & the M.G.'s,54,"['classic soul', 'funk', 'instrumental funk', 'instrumental soul', 'memphis soul', 'soul', 'southern soul']",Green Onions,67,0.767,0.816,0.514,0.949,0.0899,-8.741,0.0339,136.837,4
+12,spotify:track:1CAHWnTq3kXJjvmTAhcnqz,Rockstar,Scott Bradlee's Postmodern Jukebox,59,"['jazz cover', 'swing']",Swing The Vote!,22,0.359,0.357,0.699,0.0,0.271,-7.6,0.222,199.462,3
+13,spotify:track:6WFwC46XQapcmnToEcromu,Smooth Move,Cory Wong,55,"['instrumental funk', 'modern funk']",Smooth Move,42,0.648,0.688,0.729,0.381,0.805,-6.168,0.0858,170.138,4
+14,spotify:track:0ldOjxAtxvncOrVWmg6xcw,Slip,Shubh Saran,29,"['indian jazz', 'uk contemporary jazz']",Hmayra,39,0.157,0.401,0.369,0.33,0.098,-13.142,0.0363,89.717,3
+15,spotify:track:57JVGBtBLCfHw2muk5416J,Another One Bites The Dust - Remastered 2011,Queen,83,"['classic rock', 'glam rock', 'rock']",The Game (Deluxe Remastered Version),72,0.112,0.933,0.528,0.329,0.163,-6.472,0.162,109.975,4
+16,spotify:track:4qYBR4KCtaTeOBwQA2wc66,Je serai le président de tous les Français,Malto,27,[],Je serai le président de tous les Français,44,0.762,0.915,0.733,0.0455,0.169,-11.94,0.0468,120.013,4
+17,spotify:track:1QQxrrABKbx5w4LIphElwb,Man Funk,Guts,56,"['bboy', 'electronica', 'nu jazz']",Hip Hop After All,57,0.0545,0.859,0.628,1.29e-05,0.319,-7.199,0.257,92.047,4
+18,spotify:track:6FLqFu1ApSkUddZ9P4H6Io,Baby I'm Yours,Arctic Monkeys,82,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",Leave Before The Lights Come On,57,0.215,0.462,0.595,0.0,0.184,-9.363,0.0347,113.719,4
+19,spotify:track:2LaCIXFsWQGILl7F54k6Cg,Work Song,Cee-Roo,26,[],"Electro Blues, Vol. 2",41,0.262,0.688,0.627,0.00547,0.061,-5.521,0.0771,124.963,4
+20,spotify:track:3geFzA6VBSNZUTmV3bCry6,Mardy Bum,Arctic Monkeys,82,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']","Whatever People Say I Am, That's What I'm Not",57,0.0288,0.634,0.599,0.0,0.197,-5.447,0.0365,112.215,4
+21,spotify:track:0ZRrJTPXDToRJ2iLo9oLrW,When The Sun Goes Down,Arctic Monkeys,82,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']","Whatever People Say I Am, That's What I'm Not",60,0.0341,0.348,0.875,0.0,0.117,-4.758,0.199,169.152,4
+22,spotify:track:43JthQDm4KQv9kfmZKs0yj,The Bombay Doors,Tejas,14,"['indian indie', 'mumbai indie']",Outlast,5,0.153,0.36,0.746,0.0,0.134,-7.492,0.0763,106.593,4
+23,spotify:track:2au1ExRjDFM6kn4zC5dJ70,Dancing,Paolo Conte,52,"['folk rock italiano', 'italian adult pop']",Best Of Paolo Conte,25,0.688,0.719,0.473,0.00687,0.237,-17.111,0.137,149.933,4
+24,spotify:track:5WHWPRAkR2WYH1CjKV9Omh,Via con me,Paolo Conte,52,"['folk rock italiano', 'italian adult pop']",Paris Milonga,56,0.752,0.625,0.472,0.00298,0.154,-16.407,0.153,163.41,4
+25,spotify:track:1ZQzeovRPJEsLE1mfAT3pt,Coffee Cold - Live,Galt MacDermot,45,[],Live in Nashville,2,0.38,0.632,0.705,0.837,0.796,-8.304,0.0394,136.052,4
+26,spotify:track:5rnBUYmJ1lPGLacCTLQbls,Coffee Cold (Live),Galt MacDermot,45,[],Live at Joe's Pub,4,0.675,0.545,0.649,0.393,0.708,-6.719,0.0343,80.312,4
+27,spotify:track:1PxkZ5BkUgOB1bAWLJwcpI,Heebeegeebee,"Mike Potter, James Day & Justin Langlands",3,[],Vintage & Electro Swing,1,0.0133,0.759,0.613,0.00148,0.0629,-8.222,0.168,92.442,4
+28,spotify:track:0ErE91dukQOUpNVHMxaDGl,The Mojo Radio Gang - Club Version,Parov Stelar,61,"['balkan beats', 'downtempo', 'electro swing', 'nu jazz']","Coco, Pt. 2",28,0.0252,0.765,0.646,0.87,0.0523,-8.468,0.041,128.021,4
+29,spotify:track:01E5lV7k8HK1tsaudRSeEo,Hit Me Like a Drum - Club Version,Parov Stelar,61,"['balkan beats', 'downtempo', 'electro swing', 'nu jazz']",The Demon Diaries,20,0.045,0.954,0.63,0.0447,0.0814,-7.179,0.162,125.049,4
+30,spotify:track:19VIMyLM4QJU6OwajJNnsK,It's Never Last Call,Drake Bell,49,['post-teen pop'],The Lost Album,15,0.666,0.498,0.643,0.0,0.889,-5.691,0.0348,139.875,4
+31,spotify:track:2N5zMZX7YeL1tico8oQxa9,Crazy,Gnarls Barkley,60,"['atl hip hop', 'neo soul']",St. Elsewhere,70,0.0172,0.835,0.741,0.0577,0.0826,-1.609,0.0339,111.963,4
+32,spotify:track:4f4eThkss7iSzZyyj0e8vj,Katchi,Nick Waterhouse,49,"['chicago indie', 'funk']",Never Twice,19,0.128,0.676,0.721,0.000984,0.111,-7.498,0.0389,123.858,4
+33,spotify:track:0qqRwBkq7oWv6QnIRLfQKe,Do You Feel Like We Do - Live,Peter Frampton,59,"['album rock', 'art rock', 'blues rock', 'british blues', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'roots rock', 'soft rock', 'symphonic rock']",Frampton Comes Alive! (Deluxe Edition),51,0.0389,0.319,0.661,0.0039,0.886,-8.548,0.0334,106.189,4
+34,spotify:track:0DAX2ETmLo0UIXB8AubQ8k,Dry The Rain,The Beta Band,43,"['alternative rock', 'britpop', 'indie rock', 'scottish indie']",High Fidelity (Original Motion Picture Soundtrack),0,0.0867,0.578,0.787,0.123,0.226,-8.182,0.0285,150.495,4
+35,spotify:track:2x5Frs6ts14U4MSLrQQlXg,Why iii Love The Moon.,Phony Ppl,50,"['alternative r&b', 'indie soul']",Yesterday's Tomorrow,61,0.547,0.706,0.483,1.94e-06,0.136,-7.929,0.0393,92.002,4

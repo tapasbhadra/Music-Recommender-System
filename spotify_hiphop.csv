@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,California Love - Original Version,The Best of 2Pac - Pt. 1: Thug,2Pac,2007-12-04,284480,0,0.761,0.0292,0.761,0.847,2.26e-06,0.39,-3.068,0.0417,91.519,4
+1,Juicy - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,1994-09-13,302760,75,0.889,0.47,0.889,0.818,0.0,0.179,-4.639,0.253,96.063,4
+2,Lose Yourself - Soundtrack Version,Lose Yourself (International Version),Eminem,2002-11-13,326640,0,0.69,0.0094,0.69,0.747,0.000709,0.355,-4.583,0.264,171.367,4
+3,Nuthin' But a 'G' Thang,Me And My Homies,Snoop Dogg,2005-09-26,235186,0,0.808,0.00807,0.808,0.71,0.0,0.208,-8.099,0.306,94.606,4
+4,It Was A Good Day,The Essentials,Ice Cube,2008-01-01,260306,59,0.78,0.135,0.78,0.754,0.034,0.0467,-5.377,0.0952,82.394,4
+5,Tipsy - Club Mix,Tipsy,J-Kwon,2001-01-01,247106,58,0.925,0.0653,0.925,0.741,0.0,0.044,-5.827,0.315,93.04,4
+6,The Next Episode,2001 (Explicit Version),Dr. Dre,1999-11-16,161600,0,0.92,0.0313,0.92,0.891,0.0,0.083,-2.398,0.253,95.295,4
+7,Hypnotize - 2007 Remaster,Greatest Hits,The Notorious B.I.G.,2007-03-05,230000,71,0.895,0.176,0.895,0.694,0.0,0.292,-4.384,0.275,93.944,4
+8,"Running Your Mouth - Featuring Snoop Dogg, Nate Dogg, Fabolous and Busta Rhymes Explicit Album Version",Greatest Hits,The Notorious B.I.G.,2007-03-02,213173,0,0.7,0.051,0.7,0.786,0.0,0.191,-4.279,0.164,96.919,4
+9,Big Poppa - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,1994-09-13,252746,77,0.78,0.43,0.78,0.575,0.0,0.143,-7.247,0.273,84.492,4
+10,1970 Somethin' - featuring The Game and Faith Evans Explicit Album Version,Duets: The Final Chapter,The Notorious B.I.G.,2005-12-13,205920,0,0.786,0.094,0.786,0.635,0.0,0.0771,-5.307,0.321,97.315,4
+11,Notorious Thugs,Life After Death (Deluxe Version),The Notorious B.I.G.,1997-03-04,367960,0,0.755,0.162,0.755,0.738,1.98e-05,0.173,-6.792,0.152,154.788,4
+12,Can I Get Witcha,Born Again,The Notorious B.I.G.,1999-12-07,216533,0,0.862,0.0252,0.862,0.705,0.0,0.0914,-6.036,0.3,105.02,4
+13,Biggie,Born Again,The Notorious B.I.G.,1999-12-07,322400,0,0.621,0.142,0.621,0.951,0.0,0.216,-4.46,0.622,166.442,4
+14,Come On,Born Again,The Notorious B.I.G.,1999-12-07,275840,0,0.735,0.347,0.735,0.735,7.58e-06,0.323,-4.985,0.363,88.399,4
+15,Mo Money Mo Problems,Life After Death (Explicit Version),The Notorious B.I.G.,1997,257399,0,0.858,0.0178,0.858,0.767,2.14e-06,0.145,-8.265,0.0771,104.463,4
+16,The Message,The Best Of Grandmaster Flash & Sugar Hill,Various Artists,2005,192626,0,0.936,0.0419,0.936,0.847,0.0,0.0799,-6.145,0.225,100.406,4
+17,Rappers Delight,Hip To The Hop: 30th Anniversary Of Hip Hop Hip To Da Hop,Various Artists,2009-12-28,235226,41,0.904,0.0493,0.904,0.798,2.15e-06,0.0412,-7.456,0.269,111.753,4
+18,It's Tricky,Playlist: The Very Best Of RUN-DMC,Run–D.M.C.,1984,183173,0,0.966,0.00307,0.966,0.912,0.0,0.0867,-4.833,0.159,128.115,4
+19,Walk This Way,The Essential Aerosmith,Aerosmith,2002,309693,0,0.768,0.0253,0.768,0.817,0.000124,0.0535,-4.295,0.0567,105.692,4
+20,Ghetto Gospel - (Explicit),The Best of 2Pac - Pt. 2: Life,2Pac,2007-12-04,237986,0,0.789,0.101,0.789,0.614,0.0,0.0733,-4.823,0.0503,80.545,4
+21,Only God Can Judge Me,All Eyez On Me,2Pac,1996-02-13,296906,0,0.803,0.0012,0.803,0.784,0.000161,0.0794,-5.97,0.198,90.185,4
+22,Still D.R.E.,2001 (Explicit Version),Dr. Dre,1999-11-16,268004,0,0.814,0.175,0.814,0.779,0.000671,0.0605,-3.271,0.235,93.43,4
+23,Drop It Like It's Hot,Drop It Like It's Hot (International Version),Snoop Dogg,2004-01-01,270466,0,0.912,0.188,0.912,0.553,0.0,0.102,-4.716,0.205,91.991,4
+24,Pac's Life,Pac's Life,2Pac,2006-11-21,217440,0,0.772,0.128,0.772,0.891,0.0,0.323,-3.029,0.183,95.306,4
+25,2 of Americaz Most Wanted,2 of Americaz Most Wanted,2Pac,2011-05-24,242426,24,0.846,0.0379,0.846,0.872,0.0017,0.0564,-3.604,0.126,99.251,4
+26,Hits from the Bong,Playlist: The Very Best Of Cypress Hill,Cypress Hill,2008-06-17,161213,0,0.804,0.00776,0.804,0.594,0.79,0.344,-12.676,0.192,92.18,4
+27,Forgot About Dre,2001 (Explicit Version),Dr. Dre,1999-11-16,222240,0,0.925,0.092,0.925,0.737,0.0,0.169,-1.292,0.0777,133.946,4
+28,Old Time's Sake,Relapse: Refill,Eminem,2009-05-15,278160,0,0.775,0.0606,0.775,0.829,0.0,0.33,-1.933,0.304,176.047,4
+29,Without Me,The Eminem Show,Eminem,2002-05-26,290226,0,0.915,0.00299,0.915,0.656,0.0,0.324,-2.827,0.0716,112.243,4
+30,Mama Said Knock You Out,Mama Said Knock You Out,LL COOL J,1990-08-27,292973,0,0.788,0.0501,0.788,0.807,0.454,0.334,-7.092,0.118,102.396,4
+31,Doin' It,Mr. Smith,LL COOL J,1995-11-21,294000,43,0.808,0.381,0.808,0.535,0.0358,0.111,-11.47,0.206,95.0,4
+32,Otherside (feat. Fences) [Ryan Lewis Remix],VS. Redux,Macklemore & Ryan Lewis,2010-10-20,346164,50,0.612,0.523,0.612,0.568,0.0,0.217,-8.555,0.0743,116.247,4
+33,Wings,Wings,Macklemore & Ryan Lewis,2011-07-20,298640,0,0.508,0.348,0.508,0.602,0.0,0.193,-6.988,0.148,74.048,4
+34,Eazy-Duz-It,Snoop Dogg Presents: The West Coast Blueprint,Snoop Dogg,2010-02-23,258426,0,0.807,0.0453,0.807,0.693,0.0,0.234,-3.842,0.317,90.886,4
+35,Runaway Love,Release Therapy,Ludacris,2006-01-01,280680,0,0.405,0.329,0.405,0.721,0.0,0.252,-6.97,0.284,92.855,4
+36,"Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",Legend Of The Wu-Tang: Wu-Tang Clan's Greatest Hits,Wu-Tang Clan,2004-10-26,253466,58,0.787,0.223,0.787,0.72,0.0,0.633,-7.569,0.313,121.003,4
+37,"Shook Ones, Pt. II",The Infamous,Mobb Deep,1995-04-25,325506,74,0.763,0.0146,0.763,0.786,0.0114,0.0817,-6.472,0.229,93.857,4
+38,Survival of the Fittest,The Infamous,Mobb Deep,1995-04-25,224533,69,0.813,0.125,0.813,0.703,1.26e-06,0.237,-5.077,0.268,94.828,4
+39,Outta Control - Remix,Outta Control [International Version (Explicit)],50 Cent,2005-01-01,248253,0,0.774,0.029,0.774,0.593,0.0,0.0455,-5.989,0.274,91.989,4
+40,Auditorium,The Ecstatic,Mos Def,2009-06-09,274480,0,0.403,0.0498,0.403,0.742,0.0,0.418,-5.889,0.338,90.336,4
+41,Mathematics,Black On Both Sides,Mos Def,1999-10-12,246440,0,0.753,0.0285,0.753,0.749,0.0,0.0845,-6.132,0.316,93.79,4
+42,Ms. Fat Booty,Black On Both Sides,Mos Def,1999-10-12,223515,0,0.781,0.148,0.781,0.589,0.0,0.166,-4.827,0.21,90.437,4
+43,Supermagic,The Ecstatic,Mos Def,2009-06-09,152626,0,0.433,0.229,0.433,0.711,0.0,0.159,-5.043,0.255,88.876,4
+44,History,The Ecstatic,Mos Def,2009-06-09,141386,0,0.5,0.674,0.5,0.854,0.0,0.285,-3.939,0.355,189.58,4
+45,Priority,The Ecstatic,Mos Def,2009-06-09,82946,0,0.634,0.301,0.634,0.823,0.0,0.37,-5.089,0.198,92.031,4
+46,Twilight Speedball,The Ecstatic,Mos Def,2009-06-09,182640,0,0.539,0.0877,0.539,0.701,0.0,0.107,-6.3,0.323,87.053,4
+47,Express Yourself,Straight Outta Compton (Expanded Edition),N.W.A.,1988-08-08,265000,0,0.849,0.0369,0.849,0.627,0.0,0.184,-9.616,0.305,95.106,4
+48,Straight Outta Compton,Straight Outta Compton (2002 - Remaster),N.W.A.,1988-08-08,259226,0,0.831,0.0374,0.831,0.935,0.0,0.33,-6.02,0.197,102.836,4
+49,Killing Me Softly With His Song,The Score,Fugees,1996,298773,0,0.765,0.0279,0.765,0.29,1.02e-06,0.571,-17.117,0.139,92.409,4
+50,"Me, Myself & I",Classic Hip-Hop,Various Artists,2011-05-17,230106,0,0.908,0.166,0.908,0.686,0.0,0.645,-15.841,0.0918,114.6,4
+51,Hate It Or Love It,The Documentary,The Game,2005,206400,76,0.802,0.14,0.802,0.785,0.0,0.123,-4.781,0.207,99.998,4
+52,Gangsta's Paradise - feat. L.V.,Rhino Hi-Five: Coolio,Coolio,2005-03-15,240466,0,0.636,0.0524,0.636,0.66,0.0,0.545,-6.77,0.0581,79.957,4
+53,Can I Kick It?,Peoples' Instinctive Travels & the Paths of Rhythm,A Tribe Called Quest,1990-04-17,252066,0,0.867,0.161,0.867,0.554,0.0103,0.111,-13.634,0.249,96.668,4
+54,Nas Is Like,Greatest Hits,Nas,2007-11-06,237466,0,0.704,0.00605,0.704,0.838,5.03e-06,0.0411,-5.065,0.32,94.49,4
+55,No Introduction,Life Is Good,Nas,2012-07-17,255293,23,0.259,0.0047,0.259,0.883,0.0,0.172,-5.067,0.137,176.102,4
+56,Summer On Smash,Life Is Good,Nas,2012-07-17,259813,21,0.591,0.015,0.591,0.766,0.0,0.107,-5.834,0.185,89.949,4
+57,Accident Murderers,Life Is Good,Nas,2012-07-17,277653,24,0.545,0.29,0.545,0.884,0.0,0.37,-4.807,0.367,86.049,4
+58,The Don,The Don (Explicit Version),Nas,2012-01-01,182746,0,0.632,0.00289,0.632,0.841,0.0,0.168,-5.154,0.228,91.926,4
+59,Purple Pills,Devils Night,D12,2001-01-01,304506,0,0.774,0.0199,0.774,0.634,2.98e-05,0.29,-5.941,0.167,125.223,4
+60,Ni**as In Paris,Watch The Throne (Deluxe),JAY-Z,2011-08-08,219333,82,0.789,0.127,0.789,0.858,0.0,0.349,-5.542,0.311,140.022,4
+61,H•A•M,Watch The Throne (Deluxe),JAY-Z,2011-08-08,275733,55,0.657,0.0462,0.657,0.524,0.0,0.322,-4.907,0.061,140.021,4
+62,Thrift Shop (feat. Wanz),Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,2012-08-01,235613,67,0.781,0.0619,0.781,0.526,0.0,0.0457,-6.985,0.293,94.992,4
+63,Dark Fantasy,My Beautiful Dark Twisted Fantasy,Kanye West,2010-01-01,280786,0,0.569,0.302,0.569,0.572,0.0,0.172,-5.893,0.0527,87.985,4
+64,Harder Than You Think,How You Sell Soul to a Soulless People Who Sold Their Soul?,Public Enemy,2007-08-07,249521,60,0.484,0.0317,0.484,0.852,0.0,0.0547,-4.442,0.274,103.578,4
+65,Fight The Power,Def Jam 25: Volume 5 - The Hit Men (Explicit),Various Artists,2009-01-01,277573,22,0.776,0.00572,0.776,0.941,2.61e-06,0.292,-1.931,0.223,105.98,4
+66,Pubic Enemy,Peoples' Instinctive Travels & the Paths of Rhythm,A Tribe Called Quest,1990-04-17,226266,0,0.903,0.0157,0.903,0.695,0.141,0.105,-13.041,0.214,109.118,4
+67,Fuck Tha Police - Remastered 2006,N.W.A. And Their Family Reunion,Various Artists,2008-01-01,314706,0,0.799,0.0095,0.799,0.87,0.0,0.18,-4.804,0.316,98.528,4
+68,Murder To Excellence,Watch The Throne (Deluxe),JAY-Z,2011-08-08,300960,8,0.566,0.024,0.566,0.816,0.0,0.0804,-4.741,0.32,87.353,4
+69,Gotta Have It,Watch The Throne (Deluxe),JAY-Z,2011-08-08,140746,15,0.74,0.411,0.74,0.574,0.0,0.262,-6.938,0.245,149.762,4
+70,Donald Trump,Donald Trump - Single,Mac Miller,2011-05-17,165908,61,0.636,0.119,0.636,0.901,0.0,0.391,-7.094,0.118,162.994,4
+71,Vato,Vato & Candy,Snoop Dogg,2006-01-01,283173,0,0.716,0.13,0.716,0.722,0.0,0.0531,-4.63,0.16,90.997,4
+72,Rock The Bells,Radio,LL COOL J,1985-11-18,240933,0,0.892,0.00503,0.892,0.514,0.453,0.139,-12.829,0.12,98.461,4
+73,I Love College,Ultimate R&B 2009 (International Version),Various Artists,2009-01-01,241440,17,0.716,0.0942,0.716,0.832,0.0,0.208,-4.407,0.241,86.464,4
+74,Opposite of Adults,Opposite of Adults EP,Chiddy Bang,2010-02-19,195453,43,0.676,0.0139,0.676,0.889,0.0,0.329,-5.483,0.148,95.987,4
+75,Runnin' (Dying To Live),Runnin' (Dying To Live) [International Version],2Pac,2003-01-01,231986,0,0.545,0.0467,0.545,0.796,0.000287,0.165,-2.762,0.406,166.122,4
+76,Disco Nights,U.F.O. Files,The Beatnuts,2008-09-30,300920,9,0.921,0.0425,0.921,0.325,1.2e-06,0.125,-17.165,0.321,103.022,4
+77,Se Acabo (feat. Method Man) - Remix,TAKE IT OR SQUEEZE IT,The Beatnuts,2001-03-10,212293,0,0.935,0.156,0.935,0.519,0.0,0.425,-6.482,0.31,96.97,4
+78,Watch Out Now,A Musical Massacre (Explicit),The Beatnuts,1999-08-10,174800,52,0.783,0.0969,0.783,0.633,0.000994,0.154,-6.983,0.291,100.428,4
+79,Da Rockwilder,Blackout!,Method Man,1999-09-28,136093,0,0.612,0.0137,0.612,0.659,0.0,0.417,-6.995,0.406,99.137,4
+80,Part II,How High (Original Motion Picture Soundtrack),Various Artists,2001-01-01,244600,0,0.775,0.0383,0.775,0.837,0.0,0.315,-4.965,0.39,95.86,4
+81,Rollin' (Urban Assault Vehicle),Chocolate Starfish And The Hot Dog Flavored Water (Explicit Version),Limp Bizkit,2000-01-01,382826,0,0.589,0.0451,0.589,0.884,0.0,0.0904,-4.918,0.324,90.036,4
+82,MC's Act Like They Don't Know,20 RAP GEMS,Various Artists,2009-05-15,296040,18,0.816,0.00936,0.816,0.647,0.000299,0.601,-9.273,0.286,90.397,4
+83,Put It On,Lifestylez Ov Da Poor & Dangerous,Big L,1995-03-28,217626,62,0.711,0.0175,0.711,0.62,0.0,0.134,-10.174,0.212,179.817,4
+84,Deadly Combination,The Big Picture (Explicit Version),Big L,2000-08-01,148000,0,0.904,0.0941,0.904,0.523,0.0,0.288,-10.071,0.3,91.473,4
+85,Fall Back,The Big Picture (Explicit Version),Big L,2000-08-01,169160,0,0.613,0.0544,0.613,0.777,6.81e-05,0.232,-5.477,0.312,100.907,4
+86,Bad Day,The Preview,Chiddy Bang,2010-10-01,203160,35,0.828,0.145,0.828,0.651,0.0,0.0771,-6.96,0.154,105.969,4
+87,The Good Life,The Preview,Chiddy Bang,2010-10-01,176946,28,0.756,0.0444,0.756,0.766,0.0,0.132,-7.448,0.112,94.999,4
+88,All Eyez On Me,All Eyez On Me,2Pac,1996-02-13,307773,0,0.873,0.03,0.873,0.719,0.0,0.333,-5.948,0.248,93.281,4
+89,Dear Mama,Me Against The World,2Pac,1995-01-01,280000,0,0.775,0.349,0.775,0.535,0.0,0.14,-7.125,0.113,84.122,4
+90,Wonda Why They Call U B____,All Eyez On Me,2Pac,1996-02-13,258466,0,0.792,0.0731,0.792,0.876,0.0,0.351,-2.856,0.228,101.277,4
+91,Stan,Curtain Call (Deluxe),Eminem,2005-12-06,404426,0,0.781,0.0375,0.781,0.74,2.27e-06,0.449,-5.065,0.208,80.056,4
+92,Kush - Main,Kush,Dr. Dre,2010-11-18,235120,0,0.424,0.000859,0.424,0.866,0.000139,0.0869,-6.171,0.2,190.276,4
+93,What's The Difference,2001 (Explicit Version),Dr. Dre,1999-11-16,244266,0,0.782,0.252,0.782,0.819,0.0,0.133,-0.158,0.251,91.824,4
+94,Pass the Cohiba (Freestyle),Grizzly City 3,Fashawn,2012-08-21,228908,11,0.648,0.0594,0.648,0.765,4.76e-06,0.179,-8.718,0.226,86.854,4
+95,Papers (Remix),Higher Learning 2 (Deluxe Edition),Fashawn,2012-04-03,241523,11,0.735,0.0979,0.735,0.577,0.0,0.259,-6.213,0.183,119.609,4
+96,No Escapin' This,TAKE IT OR SQUEEZE IT,The Beatnuts,2001-03-10,256480,0,0.759,0.156,0.759,0.65,1.41e-06,0.182,-6.507,0.333,92.079,4
+97,Where The Hood At,Grand Champ,DMX,2003-01-01,286266,49,0.537,0.158,0.537,0.948,0.0,0.356,-3.08,0.38,186.057,4
+98,To Live & Die In Amerikkka,Color Us,LB199X,2019-12-06,258055,44,0.58,0.22,0.58,0.734,6.54e-06,0.195,-3.57,0.287,81.538,4
+99,The Point Of No Return,Revolutionary Vol. 2,Immortal Technique,2004-10-05,241826,0,0.489,0.277,0.489,0.829,0.0,0.295,-7.017,0.469,83.431,4
