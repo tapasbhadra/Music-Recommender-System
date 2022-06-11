@@ -1,9 +1,9 @@
 # Music-Recommender-System
 
-Introduction:
+# Introduction:
 Recommender systems are being used by every major online platform to personalize the experience of their users. I have created a song recommender system which will understand and analyze audio features. The model will then recommend 10 songs based on my playlist and liked songs
 
-Data:
+# Data:
 I have used the Spotify API for Python called Spotipy to extract features of the songs in the playlists. 6 Spotify playlists of different genres were used to build the database. The playlists encompass the following the genres:
 1. Jazz
 2. Rock
@@ -12,6 +12,7 @@ I have used the Spotify API for Python called Spotipy to extract features of the
 5. Pop
 6. Electro Swing
 
+# Features
 The playlist URL of the selected Spotify playlists were used to extract their URIs. URI is a unique id for eac playlist. In addition, each song has a unique track_URI which will be used to extract the song features.
 For this analysis, I have used song and artist features as below:
 1. track_name
@@ -34,5 +35,6 @@ The above features describe the song and the artists. Additionally, descriptive 
 8. tempo
 9. time_signature
 
+# Model
 I have developed a Content Based Recommender System that uses cosine similarity between the data and my personal playlist that I have extracted using the Spotify API. The top 10 tracks having the highest similarity are recommended.
 
